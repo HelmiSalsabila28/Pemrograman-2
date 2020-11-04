@@ -1,0 +1,13 @@
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.csprojAssemblyReference.cache
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.AssemblyInfoInputs.cache
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.AssemblyInfo.cs
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.exe
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.deps.json
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.runtimeconfig.json
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.runtimeconfig.dev.json
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.dll
+C:\Users\Hels\Documents\netapp\tugasinheritance\bin\Debug\netcoreapp3.1\TugasInheritance.pdb
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.dll
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.pdb
+C:\Users\Hels\Documents\netapp\tugasinheritance\obj\Debug\netcoreapp3.1\TugasInheritance.genruntimeconfig.cache
